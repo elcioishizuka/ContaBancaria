@@ -1,0 +1,13 @@
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\obj\Debug\netcoreapp3.1\conta_bancaria.csprojAssemblyReference.cache
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\obj\Debug\netcoreapp3.1\conta_bancaria.AssemblyInfoInputs.cache
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\obj\Debug\netcoreapp3.1\conta_bancaria.AssemblyInfo.cs
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\obj\Debug\netcoreapp3.1\conta_bancaria.csproj.CoreCompileInputs.cache
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\bin\Debug\netcoreapp3.1\conta_bancaria.exe
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\bin\Debug\netcoreapp3.1\conta_bancaria.deps.json
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\bin\Debug\netcoreapp3.1\conta_bancaria.runtimeconfig.json
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\bin\Debug\netcoreapp3.1\conta_bancaria.runtimeconfig.dev.json
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\bin\Debug\netcoreapp3.1\conta_bancaria.dll
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\bin\Debug\netcoreapp3.1\conta_bancaria.pdb
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\obj\Debug\netcoreapp3.1\conta_bancaria.dll
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\obj\Debug\netcoreapp3.1\conta_bancaria.pdb
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Exercicio-contaBancaria\conta_bancaria\obj\Debug\netcoreapp3.1\conta_bancaria.genruntimeconfig.cache
